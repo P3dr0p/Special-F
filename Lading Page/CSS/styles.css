@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 1320px;
+}
+
+/*Index*/
+
+main{
+    background-color: #C6C5D9;
+}
+
+.nav{
+    background-color: #F2DD72;
+    text-align: center;
+}
+
+.nav-item{
+    color: black;
+    padding: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.Titulo-T{
+    text-align: center;
+    font-weight: bold; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Texto-T{
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer p{
+    color: black;
+    text-align: center;
+    background-color: #F2DD72;
+    font-weight: bold;
+}
+
+/* Sobre */
+
+.AJ{
+    width: 1320px;
+    height: 720px;
+}
+
+.m-2{
+    background-color: #F2E4DF;
+}
+
+.nav-2{
+    background-color: #400101;
+    text-align: center;
+}
+
+.nav-item-2{
+    color: white;
+    padding: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.F-2{
+    color: white;
+    text-align: center;
+    background-color: #400101;
+    font-weight: bold;
+}
