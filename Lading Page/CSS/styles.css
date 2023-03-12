@@ -9,7 +9,7 @@ body{
 /*Index*/
 
 main{
-    background-color: #C6C5D9;
+    background-color: #F2E4DF;
 }
 
 .nav{
@@ -72,5 +72,31 @@ footer p{
     color: white;
     text-align: center;
     background-color: #400101;
+    font-weight: bold;
+}
+
+/* Contribuições */
+
+.m-3{
+    background-color: #F2E4DF;
+}
+
+.nav-3{
+    background-color: #5D7353;
+    text-align: center;
+}
+
+.nav-item-3{
+    color: white;
+    padding: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.F-3{
+    color: white;
+    text-align: center;
+    background-color: #5D7353;
     font-weight: bold;
 }
